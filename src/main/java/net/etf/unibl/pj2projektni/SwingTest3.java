@@ -45,5 +45,6 @@ public class SwingTest3 {
         t1.start();
         frame.add(smp);
         frame.setVisible(true);
+        System.out.println("Printing something");
     }
 }
